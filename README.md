@@ -1,4 +1,4 @@
-# Neural Network Exercise
+# Neural Network Predicting Heart Disease
 
 In this repository, I implement the neural network algorithm on the data set to predict patients as with heart disease or without.
 
